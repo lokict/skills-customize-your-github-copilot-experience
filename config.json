@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "json-and-http-requests",
+      "title": "JSON and HTTP Requests",
+      "description": "Use Python to request data from a public API, parse JSON, and display it in a simple program",
+      "path": "assignments/json-and-http-requests",
+      "dueDate": "2026-07-15",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
